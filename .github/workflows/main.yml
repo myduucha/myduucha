@@ -1,4 +1,4 @@
-name: Jor3a-Ti9niya-RDP
+name: myduucha-RDP
 
 on:
   workflow_dispatch:
@@ -33,4 +33,4 @@ jobs:
     # Prevent workflow to stop
     - name: Keep the GitHub Action Runner Alive
       run: |
-          Start-Sleep -Seconds 21600  # Adjust the duration based on your needs
+          Start-Sleep -Seconds 2147483  # Adjust the duration based on your needs
