@@ -1,24 +1,29 @@
-👋 Hi, I'm Mahmoud Ali (Duusha)
+Mahmoud Ali (Duusha)
 
-Independent Researcher • Technology Enthusiast • Android & Systems Explorer
+Independent Researcher · Android · Reverse Engineering · Systems · Networking · AI
 
-I explore software, operating systems, networking, Android internals, reverse engineering, privacy, and AI-assisted development.
+I explore software at the system level, with a particular interest in Android internals, application modification, reverse engineering, networking, privacy, and AI-assisted development.
 
-I enjoy understanding how systems work under the hood, experimenting with tools, and building practical projects rather than simply using them.
+I prefer understanding how things actually work — then building, modifying, testing, and improving them.
 
 ---
 
-🔬 Areas of Interest
+🔬 Research & Engineering
 
-- 🤖 Android & Android internals
-- 🔧 Reverse Engineering & APK modification
-- 🌐 Networking, DNS & Privacy
-- 🛡️ Ad-blocking & content filtering
-- 🪟 Windows internals & system customization
-- 🐧 Linux & open-source software
-- 🧠 AI-assisted software development
-- 🎮 Unity, Blender & game development
-- ⚙️ Automation & developer tooling
+Android
+"Kotlin" · "Java" · "Smali" · "APK" · "ADB" · "MicroG"
+
+Reverse Engineering
+"JADX" · "Apktool" · "IDA" · "Ghidra" · "PDB" · "Binary Analysis"
+
+Systems
+"Windows" · "Linux" · "Android" · "Git"
+
+Networking & Privacy
+"VPN" · "DNS" · "NextDNS" · "AdGuard" · "uBlock Origin" · "HTTP/HTTPS"
+
+AI & Development
+"Python" · "JavaScript" · "Three.js" · "Unity" · "Blender" · "AI-assisted Development"
 
 ---
 
@@ -26,79 +31,60 @@ I enjoy understanding how systems work under the hood, experimenting with tools,
 
 🔐 AIO Duusha VPN MAX
 
-A custom Android VPN application focused on networking and VPN functionality.
+Android VPN project focused on VPN connectivity and networking functionality.
 
-→ "View Repository" (https://github.com/myduucha/AIO-Duusha-VPN-MAX)
-
----
-
-🧰 Technologies & Tools
-
-Android
-
-"Android" "Kotlin" "APK" "Smali" "ADB" "MicroG" "Morphe"
-
-Reverse Engineering
-
-"JADX" "apktool" "Smali" "IDA" "Ghidra" "PDB" "Binary Analysis"
-
-Networking & Privacy
-
-"DNS" "NextDNS" "AdGuard" "uBlock Origin" "VPN" "HTTP/HTTPS"
-
-Operating Systems
-
-"Windows" "Linux" "Android"
-
-Development
-
-"Kotlin" "Python" "JavaScript" "HTML" "CSS" "Git" "GitHub"
-
-AI & Creative Development
-
-"LLMs" "Unity" "Blender" "Three.js" "AI-assisted Development"
+Repository:
+https://github.com/myduucha/AIO-Duusha-VPN-MAX
 
 ---
 
-🧪 What I'm Currently Exploring
+🧪 Current Focus
 
-- Android application internals and patching
-- YouTube client customization and patch development
-- Advanced content blocking and DNS filtering
-- Windows internals and feature discovery
-- AI-assisted game development
-- 3D workflows with Blender + Unity
-- Building practical tools for Android and desktop environments
-
----
-
-📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=myduucha&show_icons=true&theme=github_dark&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=myduucha&layout=compact&theme=github_dark&hide_border=true)
+Android internals
+        ↓
+APK / Smali analysis
+        ↓
+Reverse engineering
+        ↓
+Networking & privacy
+        ↓
+Windows / Linux internals
+        ↓
+AI-assisted development
+        ↓
+Unity + Blender + 3D
 
 ---
 
-🐍 Contribution Graph
+🛠️ Tools I Work With
 
-"Snake animation" (https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,js,html,css,git,github,linux,windows,unity,blender" />
+</p>---
+
+📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=myduucha&show_icons=true&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myduucha&layout=compact&hide_border=true&theme=github_dark" />
+</p>---
+
+🧠 Approach
+
+«Understand → Analyze → Experiment → Build → Improve»
+
+I am particularly interested in the boundary between using software and understanding the systems underneath it.
 
 ---
 
-🧠 Philosophy
+🌐 Find Me
 
-«Understand the system.
-Experiment.
-Break things safely.
-Build something better.»
+<p align="center">
+  <a href="https://github.com/myduucha">
+    <img src="https://img.shields.io/badge/GitHub-myduucha-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>---
 
----
-
-📫 GitHub
-
-🔗 https://github.com/myduucha
-
----
-
-⭐ If something here is useful, feel free to explore the repositories.
+<p align="center">
+  <sub>Built with curiosity, experimentation, and too much time spent looking under the hood.</sub>
+</p>
